@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repositorio\\C#_Intermediario\\Delegates\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74D7EC24-BC1D-49BD-A1F0-41A6524B1362}|Delegates\\Delegates.csproj|d:\\repositorio\\c#_intermediario\\delegates\\delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D7EC24-BC1D-49BD-A1F0-41A6524B1362}|Delegates\\Delegates.csproj|solutionrelative:delegates\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74D7EC24-BC1D-49BD-A1F0-41A6524B1362}|Delegates\\Delegates.csproj|d:\\repositorio\\c#_intermediario\\delegates\\delegates\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74D7EC24-BC1D-49BD-A1F0-41A6524B1362}|Delegates\\Delegates.csproj|solutionrelative:delegates\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "D:\\repositorio\\C#_Intermediario\\Delegates\\Delegates\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Delegates\\Calculadora.cs",
+              "ToolTip": "D:\\repositorio\\C#_Intermediario\\Delegates\\Delegates\\Calculadora.cs",
+              "RelativeToolTip": "Delegates\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:33:10.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\repositorio\\C#_Intermediario\\Delegates\\Delegates\\Program.cs",
+              "RelativeDocumentMoniker": "Delegates\\Program.cs",
+              "ToolTip": "D:\\repositorio\\C#_Intermediario\\Delegates\\Delegates\\Program.cs",
+              "RelativeToolTip": "Delegates\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T12:31:49.058Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
