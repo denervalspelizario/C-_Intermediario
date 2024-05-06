@@ -1,0 +1,15 @@
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\bin\Debug\net8.0\ExercicioDelegates.exe
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\bin\Debug\net8.0\ExercicioDelegates.deps.json
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\bin\Debug\net8.0\ExercicioDelegates.runtimeconfig.json
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\bin\Debug\net8.0\ExercicioDelegates.dll
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\bin\Debug\net8.0\ExercicioDelegates.pdb
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.AssemblyInfoInputs.cache
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.AssemblyInfo.cs
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.csproj.CoreCompileInputs.cache
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.sourcelink.json
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.dll
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\refint\ExercicioDelegates.dll
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.pdb
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ExercicioDelegates.genruntimeconfig.cache
+D:\repositorio\C#_Intermediario\ExercicioDelegates\ExercicioDelegates\obj\Debug\net8.0\ref\ExercicioDelegates.dll
